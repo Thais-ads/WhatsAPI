@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thais\\source\\repos\\MagicTeste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAEE680-D0BB-437A-8F0B-A293B677B40F}|MagicTeste\\MagicTeste.csproj|c:\\users\\thais\\source\\repos\\magicteste\\magicteste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DAEE680-D0BB-437A-8F0B-A293B677B40F}|MagicTeste\\MagicTeste.csproj|solutionrelative:magicteste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAEE680-D0BB-437A-8F0B-A293B677B40F}|MagicTeste\\MagicTeste.csproj|c:\\users\\thais\\source\\repos\\magicteste\\magicteste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAEE680-D0BB-437A-8F0B-A293B677B40F}|MagicTeste\\MagicTeste.csproj|solutionrelative:magicteste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAEE680-D0BB-437A-8F0B-A293B677B40F}|MagicTeste\\MagicTeste.csproj|c:\\users\\thais\\source\\repos\\magicteste\\magicteste\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAEE680-D0BB-437A-8F0B-A293B677B40F}|MagicTeste\\MagicTeste.csproj|solutionrelative:magicteste\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAEE680-D0BB-437A-8F0B-A293B677B40F}|MagicTeste\\MagicTeste.csproj|c:\\users\\thais\\source\\repos\\magicteste\\magicteste\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAEE680-D0BB-437A-8F0B-A293B677B40F}|MagicTeste\\MagicTeste.csproj|solutionrelative:magicteste\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thais\\source\\repos\\MagicTeste\\MagicTeste\\appsettings.json",
+              "RelativeDocumentMoniker": "MagicTeste\\appsettings.json",
+              "ToolTip": "C:\\Users\\thais\\source\\repos\\MagicTeste\\MagicTeste\\appsettings.json",
+              "RelativeToolTip": "MagicTeste\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T22:10:04.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\thais\\source\\repos\\MagicTeste\\MagicTeste\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MagicTeste\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\thais\\source\\repos\\MagicTeste\\MagicTeste\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "MagicTeste\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:09:59.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\thais\\source\\repos\\MagicTeste\\MagicTeste\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "MagicTeste\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\thais\\source\\repos\\MagicTeste\\MagicTeste\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "MagicTeste\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:09:46.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thais\\source\\repos\\MagicTeste\\MagicTeste\\Program.cs",
+              "RelativeDocumentMoniker": "MagicTeste\\Program.cs",
+              "ToolTip": "C:\\Users\\thais\\source\\repos\\MagicTeste\\MagicTeste\\Program.cs",
+              "RelativeToolTip": "MagicTeste\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:09:40.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 375,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
